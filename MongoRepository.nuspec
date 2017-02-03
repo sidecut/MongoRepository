@@ -28,7 +28,7 @@
     <file src="\MongoRepository\bin\Release\MongoRepository.Net45.XML" target="lib\net45" />
     <file src="\MongoRepository\app.config.transform" target="content" />
     <file src="\MongoRepository\web.config.transform" target="content" />
-    <file src="\Help\Output\MongoRepository.chm" target="" />
+    <!--<file src="\Help\Output\MongoRepository.chm" target="" />-->
     <file src="install.ps1" target="tools\install.ps1" />
     <file src="uninstall.ps1" target="tools\uninstall.ps1" />
   </files>
