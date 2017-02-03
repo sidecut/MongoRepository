@@ -9,7 +9,7 @@
     <licenseUrl>https://raw.githubusercontent.com/RobThree/MongoRepository/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/sidecut/MongoRepository</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>This is a fork of RobIII's MongoRepository that targets MongoDB.Driver 2.x.  RobIII's MongoRepository is an easy to use library implements the repository pattern on top of Official MongoDB C# driver.</description>
+    <description>This is a fork of RobIII's MongoRepository that targets MongoDB.Driver 2.x.  RobIII's MongoRepository is an easy-to-use library that implements the repository pattern on top of Official MongoDB C# driver.</description>
     <tags>mongo mongodb repository</tags>
     <iconUrl>https://raw.githubusercontent.com/RobThree/MongoRepository/master/mongorepositorylogo.png</iconUrl>
     <releaseNotes>
